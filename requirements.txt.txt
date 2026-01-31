@@ -1,0 +1,5 @@
+Language: Python
+
+Libraries: fast.ai, PyTorch, NumPy, Matplotlib
+
+Dataset: WM-811K (811,457 wafer maps)

@@ -1,0 +1,2 @@
+The dataset is available on Kaggle, here's the link to download it:
+https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map
